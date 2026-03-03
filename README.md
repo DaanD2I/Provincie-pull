@@ -1,3 +1,3 @@
 # Provincie-pull
 
-Deze code kan gebruikt worden om de PGECODE librabry te gebruiken om op basis van zipcodes, provincies en/of gemeentes te matchen.
+Deze code wordt gebruikt om een lijst van alle postcodes bijbehorende gemeente en provincie te verzamelen. Dit wordt uitgevoerd op basis van de [pgeocode library](https://pypi.org/project/pgeocode/).
